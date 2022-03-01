@@ -1,0 +1,7 @@
+{
+    "name": "netbook",
+    "short_name": "netbook",
+    "icons": [],
+    "start_url": "index",
+    "display": "standalone"
+}
